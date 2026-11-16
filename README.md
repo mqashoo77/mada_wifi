@@ -1,16 +1,33 @@
-# mada_wifi
+<p align="center">
+  <img src="assets/images/mada_wifi_logo_bg.png" alt="Mada WiFi" width="320">
+</p>
 
-A new Flutter project.
+<h1 align="center">Mada WiFi</h1>
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) (Dart `^3.10.7`)
+- Android Studio or VS Code with the Flutter extension
+- An Android/iOS device or emulator
 
-A few resources to get you started if this is your first Flutter project:
+## Install
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/mqashoo77/mada_wifi.git
+cd mada_wifi
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Run
+
+```bash
+flutter run
+```
+
+## Build a release APK
+
+```bash
+flutter build apk --release
+```
+
+The APK is written to `build/app/outputs/flutter-apk/app-release.apk`.
