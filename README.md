@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/mada_wifi_logo_bg_100px.png" alt="Mada WiFi" width="320">
+  <img src="assets/images/mada_wifi_logo_bg_100px.png" alt="Mada WiFi" width="150" height="150">
 </p>
 
 <h1 align="center">Mada WiFi</h1>
@@ -30,4 +30,4 @@ flutter run
 flutter build apk --release
 ```
 
-The APK is written to `build/app/outputs/flutter-apk/app-release.apk`.
+
