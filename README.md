@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/mada_wifi_logo_bg.png" alt="Mada WiFi" width="320">
+  <img src="assets/images/mada_wifi_logo_bg_100px.png" alt="Mada WiFi" width="320">
 </p>
 
 <h1 align="center">Mada WiFi</h1>
